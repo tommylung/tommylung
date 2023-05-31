@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋, I'm tommylung.
+
+### I'm a frontend developer.
 
 <!--
 **tommylung/tommylung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
