@@ -1,8 +1,13 @@
-<img height="170" align="right" src="https://github-readme-stats.vercel.app/api?username=tommylung&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"/>
-
 ### Hi there 👋, I'm tommylung.
 
 I'm a frontend developer.
+
+<details>
+  <summary>
+    GitHub Stats Panel
+  </summary>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=tommylung&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"/>
+</details>
 
 <!--
 **tommylung/tommylung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
